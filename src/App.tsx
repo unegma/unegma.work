@@ -6,7 +6,7 @@ import Typography from '@material-ui/core/Typography';
 import {
   BrowserRouter as Router, Link,
 } from 'react-router-dom';
-import {Container} from "@material-ui/core";
+import {Container, Divider} from "@material-ui/core";
 
 function App() : JSX.Element {
   return (
@@ -43,7 +43,13 @@ function App() : JSX.Element {
         <p><a href="https://applications.unegma.work" target="_blank" className="hi">Job Applications POC</a> - A short POC for showing ordering of job applicants</p>
         <p><a href="https://eip.design" target="_blank" className="hi">EIP Design</a> - EIP Proposal builder for Ethereum</p>
 
-        <br/>
+        <br/><br/>
+
+        <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma</a></p>
+
+        <Divider/>
+
+        {/*<p>Who we have worked with</p>*/}
 
       </Container>
 
