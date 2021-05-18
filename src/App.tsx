@@ -33,7 +33,8 @@ function App() : JSX.Element {
 
         <Typography variant="h6">Projects</Typography>
         <p><a href="https://unegma.com" target="_blank" className="hi">Unegma.com</a></p>
-        <p><a href="https://nifty.help" target="_blank" className="hi">WTF is an NFT</a> - hackathon build</p>
+        <p><a href="https://zk.contact" target="_blank" className="hi">ZK Contact</a> - The definitive list for projects in the Zero Knowledge Space</p>
+        <p><a href="https://nifty.help" target="_blank" className="hi">WTF is an NFT</a> - Hackathon build</p>
 
         <br/>
 
