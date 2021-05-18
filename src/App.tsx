@@ -45,6 +45,8 @@ function App() : JSX.Element {
 
         <br/><br/>
 
+        <Divider/>
+
         <p><a href="https://unegma.com" target="_blank" className="hi">By Unegma</a></p>
 
         <Divider/>
