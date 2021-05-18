@@ -32,15 +32,15 @@ function App() : JSX.Element {
         <br/>
 
         <Typography variant="h6">Projects</Typography>
-        <a href="https://unegma.com" target="_blank" className="hi">Unegma.com</a><br/>
-        <a href="https://nifty.help" target="_blank" className="hi">WTF is an NFT (hackathon build)</a><br/>
+        <p><a href="https://unegma.com" target="_blank" className="hi">Unegma.com</a></p>
+        <p><a href="https://nifty.help" target="_blank" className="hi">WTF is an NFT</a> - hackathon build</p>
 
         <br/>
 
         <Typography variant="h6">POCs</Typography>
-        <a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a><br/>
-        <a href="https://applications.unegma.work" target="_blank" className="hi">Job Applications POC</a><br/>
-        <a href="https://eip.design" target="_blank" className="hi">EIP Proposal builder for Ethereum</a><br/>
+        <p><a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a> - A POC for showing transactions between buyers and sellers</p>
+        <p><a href="https://applications.unegma.work" target="_blank" className="hi">Job Applications POC</a> - A short POC for showing ordering of job applicants</p>
+        <p><a href="https://eip.design" target="_blank" className="hi">EIP Design</a> - EIP Proposal builder for Ethereum</p>
 
         <br/>
 
