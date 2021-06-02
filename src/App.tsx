@@ -43,6 +43,11 @@ function App() : JSX.Element {
         <p><a href="https://applications.unegma.work" target="_blank" className="hi">Job Applications POC</a> - A short POC for showing ordering of job applicants</p>
         <p><a href="https://eip.design" target="_blank" className="hi">EIP Design</a> - EIP Proposal builder for Ethereum</p>
 
+        <br/>
+
+        <Typography variant="h6">Other</Typography>
+        <p><a href="https://github.com/unegma" target="_blank" className="hi">Github</a> - Github Page</p>
+
         <br/><br/>
 
         <Divider/>
