@@ -53,6 +53,15 @@ function App() : JSX.Element {
         <br/>
         <br/>
 
+        <Typography variant="h4">Partners</Typography>
+        <p><a href="https://www.meetup.com/ethereum" target="_blank" className="hi">Ethereum London</a> - Web3 Events<span className='web3'/></p>
+        <p><a href="https://www.meetup.com/metafashion" target="_blank" className="hi">Metafashion</a> - Metaverse Events<span className='metaverse'/></p>
+        <p><a href="https://twitter.com/MondaoMeetup" target="_blank" className="hi">MonDAO</a> - Web3 Meetup<span className='web3'/></p>
+        <p><a href="https://thursdao.xyz" target="_blank" className="hi">ThursDAO</a> - Web3 Coworking<span className='web3'/></p>
+
+        <br/>
+        <br/>
+
         <Typography variant="h4">POCs</Typography>
         <p><a href="https://rain-examples.unegma.work" target="_blank" className="hi">Rain Protocol POCs</a> - POCs for a Web3 toolkit<span className='web3'/><span className='nft'/></p>
         <p><a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a> - A POC for showing seller/buyer transactions</p>
