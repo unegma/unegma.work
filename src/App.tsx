@@ -57,7 +57,7 @@ function App() : JSX.Element {
         <p><a href="https://www.meetup.com/ethereum" target="_blank" className="hi">Ethereum London</a> - Web3 Events<span className='web3'/></p>
         <p><a href="https://www.meetup.com/metafashion" target="_blank" className="hi">Metafashion</a> - Metaverse Events<span className='metaverse'/></p>
         <p><a href="https://twitter.com/MondaoMeetup" target="_blank" className="hi">MonDAO</a> - Web3 Meetup<span className='web3'/></p>
-        <p><a href="https://thursdao.xyz" target="_blank" className="hi">ThursDAO</a> - Web3 Coworking<span className='web3'/></p>
+        <p><a href="https://twitter.com/ThursdaoLondon" target="_blank" className="hi">ThursDAO</a> - Web3 Coworking<span className='web3'/></p>
 
         <br/>
         <br/>
