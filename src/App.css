@@ -115,6 +115,19 @@
   content: 'ZKP';
   color: white;
 }
+.nft {
+  width: 10px;
+  height: 10px;
+  background: cyan;
+  padding: 3px;
+  border-radius:5px;
+  margin-left: 2px;
+}
+
+.nft:after {
+  content: 'NFT';
+  color: white;
+}
 .video {
   width: 10px;
   height: 10px;
