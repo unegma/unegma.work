@@ -31,10 +31,18 @@ function App() : JSX.Element {
 
         <br/>
 
-        <Typography variant="h4">Projects</Typography>
+        <Typography variant="h4">Unegma</Typography>
         <p><a href="https://unegma.com" target="_blank" className="hi">Unegma.com</a></p>
+        <p><a href="https://unegma.xyz" target="_blank" className="hi">Unegma Blog</a></p>
+        <p><a href="https://www.youtube.com/channel/UC_B-UUwH1zLHD7im62m_gzw" target="_blank" className="hi">Unegma YouTube</a></p>
         <p><a href="https://unegma.place" target="_blank" className="hi">Unegma.place</a> - 3D scans of venues</p>
         <p><a href="https://unegma.store" target="_blank" className="hi">Unegma.store</a> - 3D assets for stores (POC)</p>
+        <p><a href="https://geo.unegma.science" target="_blank" className="hi">Geo.unegma.science</a> - 3D scans of rocks</p>
+
+        <br/>
+        <br/>
+
+        <Typography variant="h4">Projects</Typography>
         <p><a href="https://mynifty.gallery" target="_blank" className="hi">Mynifty.gallery</a> - A 3D gallery for your NFTs and POAPs</p>
         <p><a href="https://nifty.rip" target="_blank" className="hi">Nifty.rip</a> - A 3D gallery of dead NFTs (needs fixes)</p>
         <p><a href="https://thursdao.xyz" target="_blank" className="hi">Thursdao.xyz</a> - A 3d site for a coworking space</p>
@@ -49,6 +57,7 @@ function App() : JSX.Element {
         <p><a href="https://rain-examples.unegma.work" target="_blank" className="hi">Rain Protocol POCs</a> - POCs for a Web3 toolkit</p>
         <p><a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a> - A POC for showing seller/buyer transactions</p>
         <p><a href="https://applications.unegma.work" target="_blank" className="hi">Job Applications POC</a> - A short POC for showing ordering of job applicants</p>
+        <p><a href="https://tims-gallery.unegma.art" target="_blank" className="hi">Gallery POC</a> - A short POC for showing buying 3D NFTs</p>
         {/*<p><a href="https://eip.design" target="_blank" className="hi">EIP Design</a> - EIP Proposal builder for Ethereum</p>*/}
 
         <br/>
