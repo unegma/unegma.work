@@ -32,32 +32,32 @@ function App() : JSX.Element {
         <br/>
 
         <Typography variant="h4">Unegma</Typography>
-        <p><a href="https://unegma.com" target="_blank" className="hi">Unegma.com</a></p>
+        <p><a href="https://unegma.com" target="_blank" className="hi">Unegma.com</a><span className='threeDee'/></p>
         <p><a href="https://unegma.xyz" target="_blank" className="hi">Unegma Blog</a></p>
-        <p><a href="https://www.youtube.com/channel/UC_B-UUwH1zLHD7im62m_gzw" target="_blank" className="hi">Unegma YouTube</a></p>
-        <p><a href="https://unegma.place" target="_blank" className="hi">Unegma.place</a> - 3D scans of venues</p>
-        <p><a href="https://unegma.store" target="_blank" className="hi">Unegma.store</a> - 3D assets for stores (POC)</p>
-        <p><a href="https://geo.unegma.science" target="_blank" className="hi">Geo.unegma.science</a> - 3D scans of rocks</p>
+        <p><a href="https://www.youtube.com/channel/UC_B-UUwH1zLHD7im62m_gzw" target="_blank" className="hi">Unegma YouTube</a><span className='video'/><span className='web3'/></p>
+        <p><a href="https://unegma.place" target="_blank" className="hi">Unegma.place</a> - 3D scans of venues<span className='threeDee'/><span className='metaverse'/><span className='vr'/></p>
+        <p><a href="https://unegma.store" target="_blank" className="hi">Unegma.store</a> - 3D assets for stores (POC)<span className='threeDee'/><span className='metaverse'/><span className='ar'/></p>
+        <p><a href="https://geo.unegma.science" target="_blank" className="hi">Geo.unegma.science</a> - 3D scans of rocks<span className='threeDee'/><span className='ar'/></p>
 
         <br/>
         <br/>
 
         <Typography variant="h4">Projects</Typography>
-        <p><a href="https://mynifty.gallery" target="_blank" className="hi">Mynifty.gallery</a> - A 3D gallery for your NFTs and POAPs</p>
-        <p><a href="https://nifty.rip" target="_blank" className="hi">Nifty.rip</a> - A 3D gallery of dead NFTs (needs fixes)</p>
-        <p><a href="https://thursdao.xyz" target="_blank" className="hi">Thursdao.xyz</a> - A 3d site for a coworking space</p>
-        <p><a href="https://fridao.xyz" target="_blank" className="hi">Fridao.xyz</a> - A 3d site for a coworking space</p>
-        <p><a href="https://arkcoworking.space" target="_blank" className="hi">arkcoworking.space</a> - A 3d site for a coworking space</p>
-        <p><a href="https://mtkn.unegma.art" target="_blank" className="hi">mtkn.unegma.art</a> - A faucet for distributing Web3 tokens</p>
+        <p><a href="https://mynifty.gallery" target="_blank" className="hi">Mynifty.gallery</a> - A 3D gallery for your NFTs and POAPs<span className='threeDee'/><span className='vr'/><span className='web3'/></p>
+        <p><a href="https://nifty.rip" target="_blank" className="hi">Nifty.rip</a> - A 3D gallery of dead NFTs (needs fixes)<span className='threeDee'/><span className='vr'/><span className='web3'/></p>
+        <p><a href="https://thursdao.xyz" target="_blank" className="hi">Thursdao.xyz</a> - A 3d site for a coworking space<span className='threeDee'/><span className='vr'/><span className='web3'/></p>
+        <p><a href="https://fridao.xyz" target="_blank" className="hi">Fridao.xyz</a> - A 3d site for a coworking space<span className='threeDee'/><span className='vr'/><span className='web3'/></p>
+        <p><a href="https://arkcoworking.space" target="_blank" className="hi">arkcoworking.space</a> - A 3d site for a coworking space<span className='threeDee'/><span className='vr'/></p>
+        <p><a href="https://mtkn.unegma.art" target="_blank" className="hi">mtkn.unegma.art</a> - A faucet for distributing Web3 tokens<span className='web3'/></p>
 
         <br/>
         <br/>
 
         <Typography variant="h4">POCs</Typography>
-        <p><a href="https://rain-examples.unegma.work" target="_blank" className="hi">Rain Protocol POCs</a> - POCs for a Web3 toolkit</p>
+        <p><a href="https://rain-examples.unegma.work" target="_blank" className="hi">Rain Protocol POCs</a> - POCs for a Web3 toolkit<span className='web3'/></p>
         <p><a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a> - A POC for showing seller/buyer transactions</p>
         <p><a href="https://applications.unegma.work" target="_blank" className="hi">Job Applications POC</a> - A short POC for showing ordering of job applicants</p>
-        <p><a href="https://tims-gallery.unegma.art" target="_blank" className="hi">Gallery POC</a> - A short POC for showing buying 3D NFTs</p>
+        <p><a href="https://tims-gallery.unegma.art" target="_blank" className="hi">Gallery POC</a> - A short POC for showing buying 3D NFTs<span className='threeDee'/><span className='web3'/></p>
         {/*<p><a href="https://eip.design" target="_blank" className="hi">EIP Design</a> - EIP Proposal builder for Ethereum</p>*/}
 
         <br/>
@@ -70,7 +70,7 @@ function App() : JSX.Element {
         <br/>
 
         <Typography variant="h4">Other</Typography>
-        <p><a href="https://zk.contact" target="_blank" className="hi">ZK Contact</a> - The definitive list for projects in the Zero Knowledge Space</p>
+        <p><a href="https://zk.contact" target="_blank" className="hi">ZK Contact</a> - Projects in the Zero Knowledge Space<span className='zkp'/><span className='web3'/></p>
         <p><a href="https://github.com/unegma" target="_blank" className="hi">Github</a> - Github Page</p>
 
         <br/><br/>
