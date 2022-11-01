@@ -58,6 +58,7 @@ function App() : JSX.Element {
         <p><a href="https://shopping.unegma.work" target="_blank" className="hi">Shopping POC</a> - A POC for showing seller/buyer transactions</p>
         <p><a href="https://applications.unegma.work" target="_blank" className="hi">Job Applications POC</a> - A short POC for showing ordering of job applicants</p>
         <p><a href="https://tims-gallery.unegma.art" target="_blank" className="hi">Gallery POC</a> - A short POC for showing buying 3D NFTs<span className='threeDee'/><span className='web3'/><span className='nft'/></p>
+        <p><a href="https://boutique.unegma.store" target="_blank" className="hi">Boutique Perfume POC</a> - A short POC for showing 3D Bottles<span className='threeDee'/><span className='ar'/></p>
         <p><a href="https://rotate.unegma.net" target="_blank" className="hi">Rotate.unegma.net</a> - A short POC for displaying NFTs<span className='web3'/><span className='nft'/></p>
         {/*<p><a href="https://eip.design" target="_blank" className="hi">EIP Design</a> - EIP Proposal builder for Ethereum</p>*/}
 
