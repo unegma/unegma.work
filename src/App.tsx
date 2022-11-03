@@ -27,7 +27,7 @@ function App() : JSX.Element {
       {/*</Switch>*/}
 
       <Container className="site-container" maxWidth="sm">
-        <Typography>Portfolio of work and projects by Unegma.</Typography>
+        <Typography>Portfolio of work and projects by <a href="https://unegma.com" target="_blank" className="hi">Unegma</a>.</Typography>
 
         <br/>
 
