@@ -27,7 +27,7 @@ function App() : JSX.Element {
       {/*</Switch>*/}
 
       <Container className="site-container" maxWidth="sm">
-        {/*<Typography>This site contains links to various Projects and Proofs of Concepts (POCs).</Typography>*/}
+        <Typography>Portfolio of work and projects by Unegma.</Typography>
 
         <br/>
 
